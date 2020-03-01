@@ -1,6 +1,6 @@
 # Flutter Codelab 01
 
-A Flutter application for the first GDG Adelaide codelab
+A Flutter application for the [first GDG Adelaide codelab on 03/03/2020 @ PickStar](https://www.meetup.com/en-AU/GDG-Adelaide/events/268320132/)
 
 ## Getting Started
 
