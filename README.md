@@ -5,3 +5,8 @@ A Flutter application for the [first GDG Adelaide codelab on 03/03/2020 @ PickSt
 ## Getting Started
 
 This is a project created following [this codelab from the official documentation](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0). The purpose is to showcase the initial steps with Flutter development in the first codelab of GDG Adelaide
+
+Uses this external package to fill the endless list:
+https://pub.dev/packages/english_words
+
+![screenshot.png](screenshot.png)
